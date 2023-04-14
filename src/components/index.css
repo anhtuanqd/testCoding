@@ -1,0 +1,23 @@
+.table {
+  text-align: center;
+}
+.textOneLine {
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header {
+  background-color: #ffffff;
+  border-radius: 4px;
+  margin: 20px;
+}
+
+.textHeader {
+  padding: 12px 0;
+}
+
+.pd20 {
+  padding: 20px;
+}
